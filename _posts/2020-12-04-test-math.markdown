@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Testing math"
+date: 2020-12-04 14:18:42 -0300
+categories: jekyll update
+---
+
+$$ \int_1^t \frac{1}{x} dx = \log{(t)}$$
+
+
+No text = works, text = fails
